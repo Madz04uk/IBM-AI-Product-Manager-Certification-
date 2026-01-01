@@ -31,8 +31,7 @@ My final project focused on designing an AI-powered roadmap for an eco-conscious
 
 ##  Certification & Badge
 
-- ![Certificate](achievements/certificate.png)
--![]AI product manager certification.pdf
+- ![Certificate]([achievements/certificate.png](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/Images/AI%20product%20manager%20certification.pdf))
 - [View Badge on Credly](achievements/badge-link.md)
 
 ##  Next Steps
