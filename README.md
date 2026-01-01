@@ -1,6 +1,6 @@
 # IBM AI Product Manager Professional Certificate 
 
-Welcome to my portfolio documenting the journey through the **IBM AI Product Manager Professional Certificate**. This repository showcases my reflections, project work, and key takeaways from each module — with a focus on strategic leadership, stakeholder alignment, and measurable outcomes.
+Welcome to my portfolio documenting the journey through the **IBM AI Product Manager Professional Certificate**. This repository showcases my reflections, project work, and key takeaways from each module  with a focus on strategic leadership, stakeholder alignment, and measurable outcomes.
 
 ##  Why I Took This Certification
 
@@ -31,7 +31,7 @@ My final project focused on designing an AI-powered roadmap for an eco-conscious
 
 ##  Certification & Badge
 
-- ![View Certificate](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/Images/AI%20product%20manager%20certification.pdf)
+- [View Certificate](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/Images/AI%20product%20manager%20certification.pdf)
 - [View Badge on Credly](https://www.credly.com/badges/8cec807c-ee80-4b3e-b17a-b6b41f7d1d2e/public_url)
 
 ##  Next Steps
