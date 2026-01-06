@@ -16,7 +16,7 @@ Each module includes a summary of key concepts, personal reflections, and how I 
 
 - [AI Development scenario](course-reflections/ai-product-fundamentals.md)
 - [Identifying AI Use Cases](course-reflections/ai-use-case-identification.md)
-- [AI Ethics & Risk Management](course-reflections/ai-ethics-and-risk.md)
+- [AI Ethics & Risk Management](https://www.coursera.org/learn/introduction-to-ai/assignment-submission/miJoS/course-graded-quiz-introduction-to-artificial-intelligence-ai/view-submission)
 - [AI Lifecycle & Success Metrics](course-reflections/ai-lifecycle-management.md)
 - [Prompt Engineering for Product Managers](course-reflections/prompt-engineering.md)
 
