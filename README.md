@@ -14,8 +14,8 @@ As an Operational Product Manager with a growing interest in AI-driven innovatio
 
 Each module includes a summary of key concepts, personal reflections, and how I plan to apply the insights in real-world scenarios.
 
-- [AI product concept analysis](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Scenario-Evaluation-Worksheet_%20Opp%20and%20challenge%20AI%20Emeka.docx)
-- [AI Product development scenario](course-reflections/ai-use-case-identification.md)
+- [AI Product Concept analysis](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Scenario-Evaluation-Worksheet_%20Opp%20and%20challenge%20AI%20Emeka.docx)
+- [AI Product Development Scenario](course-reflections/ai-use-case-identification.md)
 - [AI Ethics & Risk Management](https://www.coursera.org/learn/introduction-to-ai/assignment-submission/miJoS/course-graded-quiz-introduction-to-artificial-intelligence-ai/view-submission)
 - [AI Customer Support Use case](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Customer%20Support%20Use%20Case%20Worksheet.docx)
 - [Prompt Engineering for Product Managers](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/E2E%20Prompt%20engineering_Emeka%20Jan%202026.docx)
