@@ -18,11 +18,11 @@ Each module includes a summary of key concepts, personal reflections, and how I 
 - [AI Product development scenario](course-reflections/ai-use-case-identification.md)
 - [AI Ethics & Risk Management](https://www.coursera.org/learn/introduction-to-ai/assignment-submission/miJoS/course-graded-quiz-introduction-to-artificial-intelligence-ai/view-submission)
 - [AI Customer Support Use case](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Customer%20Support%20Use%20Case%20Worksheet.docx)
-- [Prompt Engineering for Product Managers](course-reflections/prompt-engineering.md)
+- [Prompt Engineering for Product Managers](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/E2E%20Prompt%20engineering_Emeka%20Jan%202026.docx)
 
 ## Capstone Project: AI-Powered E-Commerce Strategy
 
-My final project focused on designing an AI-powered roadmap for an eco-conscious e-commerce brand. It includes:
+My final project focused on designing an AI-powered roadmap for an eco-conscious e-commerce brands. It includes:
 - [Product Concept](capstone-project/project-overview.md)
 - [Stakeholder Map](capstone-project/stakeholder-map.png)
 - [Success Metrics](capstone-project/success-metrics.md)
@@ -37,10 +37,10 @@ My final project focused on designing an AI-powered roadmap for an eco-conscious
 ##  Next Steps
 
 I'm now applying these skills to:
+- Build and launch a Chatbot for ecommece website
 - Build agentic AI monetization strategies
 - Create an angetic AI worflow to increase traffic and sales for the ecommerce business
 - Integrate dynamic pricing models into product roadmaps
-- Advocate for ethical AI adoption in life sciences and e-commerce
 
 ---
 
