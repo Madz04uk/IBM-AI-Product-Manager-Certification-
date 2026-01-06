@@ -37,7 +37,7 @@ My final project focused on designing an AI-powered roadmap for an eco-conscious
 ##  Next Steps
 
 I'm now applying these skills to:
-- Build and launch a Chatbot for ecommece website
+- Build and launch a rule based Chatbot for ecommece website
 - Build agentic AI monetization strategies
 - Create an angetic AI worflow to increase traffic and sales for the ecommerce business
 - Integrate dynamic pricing models into product roadmaps
