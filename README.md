@@ -14,7 +14,7 @@ As an Operational Product Manager with a growing interest in AI-driven innovatio
 
 Each module includes a summary of key concepts, personal reflections, and how I plan to apply the insights in real-world scenarios.
 
-- [AI Product Fundamentals](course-reflections/ai-product-fundamentals.md)
+- [AI Development scenario](course-reflections/ai-product-fundamentals.md)
 - [Identifying AI Use Cases](course-reflections/ai-use-case-identification.md)
 - [AI Ethics & Risk Management](course-reflections/ai-ethics-and-risk.md)
 - [AI Lifecycle & Success Metrics](course-reflections/ai-lifecycle-management.md)
