@@ -23,7 +23,7 @@ Each module includes a summary of key concepts, personal reflections, and how I 
 ## Capstone Project: AI-Powered E-Commerce Strategy
 
 My final project focused on designing an AI-powered roadmap for an eco-conscious e-commerce brand. It includes:
-- [Project Overview](capstone-project/project-overview.md)
+- [Product Concept](capstone-project/project-overview.md)
 - [Stakeholder Map](capstone-project/stakeholder-map.png)
 - [Success Metrics](capstone-project/success-metrics.md)
 - [Product Roadmap](capstone-project/roadmap.md)
