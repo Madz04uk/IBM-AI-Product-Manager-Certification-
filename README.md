@@ -20,7 +20,7 @@ Each module includes a summary of key concepts, personal reflections, and how I 
 - [AI Customer Support Use case](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Customer%20Support%20Use%20Case%20Worksheet.docx)
 - [Prompt Engineering for Product Managers](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/E2E%20Prompt%20engineering_Emeka%20Jan%202026.docx)
 
-## Capstone Project: Product Lifecycle Management and Execution
+## Capstone Project:  AI-powered Solutions
 
 My final project focused on designing an AI-powered roadmap for an eco-conscious e-commerce brands. It includes:
 - [Product Concept](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Final%20Lab%20Develop%20a%20Product%20Concept%20Document%20_Emeka%20Maddy.pdf)
