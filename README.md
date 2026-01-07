@@ -20,14 +20,14 @@ Each module includes a summary of key concepts, personal reflections, and how I 
 - [AI Customer Support Use case](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Customer%20Support%20Use%20Case%20Worksheet.docx)
 - [Prompt Engineering for Product Managers](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/E2E%20Prompt%20engineering_Emeka%20Jan%202026.docx)
 
-## Capstone Project: AI-Powered E-Commerce Strategy
+## Capstone Project: Product Lifecycle Management and Execution
 
 My final project focused on designing an AI-powered roadmap for an eco-conscious e-commerce brands. It includes:
-- [Product Concept](capstone-project/project-overview.md)
-- [Stakeholder Map](capstone-project/stakeholder-map.png)
-- [Success Metrics](capstone-project/success-metrics.md)
-- [Product Roadmap](capstone-project/roadmap.md)
-- [Final Presentation](capstone-project/final-presentation.pdf)
+- [Product Concept](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Final%20Lab%20Develop%20a%20Product%20Concept%20Document%20_Emeka%20Maddy.pdf)
+- [Project Charter](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Final%20Lab%20Blank%20Initial%20Project%20Charter_Emeka%20Maddy.pdf)
+- [Marketing Requirement dcoument](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Final%20Lab%20Develop%20an%20MRD_Emeka%20Maddy.pdf)
+- [Ecommerce Product Roadmap](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Ecommerce%20M4N%20Roadmap.pdf)
+- [Business case](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/Final%20Lab%20Create%20a%20Business%20Case%20Instructions%20and%20Blank_Emeka%20Maddy.pdf)
 
 ##  Certification & Badge
 
