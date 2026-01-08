@@ -1,5 +1,3 @@
-# IBM AI Product Manager Professional Certificate 
-
 Welcome to my portfolio documenting the journey through the **IBM AI Product Manager Professional Certificate**. This repository showcases my reflections, project work, and key takeaways from each module  with a focus on strategic leadership, stakeholder alignment, and measurable outcomes.
 
 ##  Why I Took This Certification
@@ -35,7 +33,7 @@ My final project focused on designing an AI-powered solutions for a variety of b
 - [View Certificate](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/Images/AI%20product%20manager%20certification.pdf)
 - [View Badge on Credly](https://www.credly.com/badges/8cec807c-ee80-4b3e-b17a-b6b41f7d1d2e/public_url)
 
-##  [Next Steps](https://github.com/Madz04uk/Emeka-Portfolio/tree/main)
+##  [Next Steps](https://madz04uk.github.io/Emeka-Portfolio/)
 
 I'm now applying these skills to:
 - Build and launch a rule based Chatbot for ecommece website
